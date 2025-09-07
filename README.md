@@ -37,6 +37,7 @@ PhinixShield/
 1. Clone the repository:
 
 git clone git@github.com:phinixvortex/PhinixShield.git
+
 cd PhinixShield
 
 2. Create and activate a virtual environment:
