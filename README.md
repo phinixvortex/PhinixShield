@@ -30,9 +30,13 @@ PhinixShield/
 ├─ agents/
 
 │   └─ phinixshield_agent.py    # Agent sending network & endpoint data
+
 ├─ run_phinixshield.sh          # One-command launcher for server + agent
+
 ├─ requirements.txt             # Python dependencies
+
 ├─ README.md
+
 └─ .gitignore
 
 ---
