@@ -20,10 +20,15 @@ It allows live network monitoring, endpoint monitoring (CPU/RAM/Processes), and 
 🗂️ Folder Structure
 
 PhinixShield/
+
 │
+
 ├─ server/
+
 │   └─ phinixshield_server.py   # Server dashboard + API
+
 ├─ agents/
+
 │   └─ phinixshield_agent.py    # Agent sending network & endpoint data
 ├─ run_phinixshield.sh          # One-command launcher for server + agent
 ├─ requirements.txt             # Python dependencies
